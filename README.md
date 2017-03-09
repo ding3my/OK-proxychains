@@ -1,5 +1,9 @@
 # OK-proxychains
 One key for proxychains
+# Environment tested
+```
+4.5.5-300.fc24.x86_64
+```
 # Installation
 ```
 sudo dnf install proxychains-ng -y
